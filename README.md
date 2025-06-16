@@ -20,13 +20,11 @@ Prompt Engineering — Estruturação de entradas otimizadas para IA com base em
 
 ---
 
-**Estrutura do Repositório:**
+**Estrutura do Repositório / Obsidian:**
 
 Metodologia - Conhecimento estruturado - Cerebro Sol
 
-Prompts - Prompt templates, variações e instruções paramétricas 
-
-Templates - Modelos padronizados de notas, prompts e documentos
+Prompts e Modelos - Prompts, templates, Modelos e Variações, padronização de documentos e instruções paramétricas 
 
 Tech - Configurações técnicas, plugins, scripts e integrações
 
@@ -34,8 +32,8 @@ Protocolos - Documentação sobre MCP, RAG e frameworks de orquestração
 
 Referências - Conteúdos externos anotados e processados (papers, artigos, etc.)
 
-README.md            # Este arquivo
+README.md - Este arquivo
 
 ---
 
-README.v.1.0.0
+README.v.1.0.1
